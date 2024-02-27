@@ -1,0 +1,21 @@
+using System;
+
+namespace ConsoleApp12
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Zad 2");
+            string[] dg = { "Antoni", "Zosia", "Antonina", "Barnaba", "Ela" };
+            Console.WriteLine(dg[0]);
+            Console.WriteLine(dg[1]);
+            Console.WriteLine(dg[2]);
+            Console.WriteLine(dg[3]);
+            Console.WriteLine(dg[4]);
+            Console.WriteLine("Zad 3");
+            Console.WriteLine("Wyraz najkrótszy to: ");
+           
+        }
+    }
+}
